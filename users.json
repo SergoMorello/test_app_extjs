@@ -1,0 +1,19 @@
+{
+"success": true,
+"users": [{
+	"ID": 1,
+	"user": "Вася",
+	"education": "бакалавр",
+	"city": "2"
+},{
+	"ID": 2,
+	"user": "Петя",
+	"education": "1",
+	"city": "2"
+},{
+	"ID": 3,
+	"user": "Саша",
+	"education": "3",
+	"city": "2"
+}]
+}
